@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi , I'm Ever Muñoz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Systems+and+Computing+Engineering+Student;DS%20|%20AI%20|%20Algorithms;Building%20solutions%20%26%20mastering%20new%20stacks&center=true&width=500&height=50"></a>
@@ -10,15 +9,30 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasmcort&theme=algolia" alt="nicolasmcort"  /></p>
 
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
 
 <p align="left">
   &emsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=nodedotjs&logoColor=white">
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://webassembly.org/" target="_blank">
+    <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-%23624DE8.svg?logo=webassembly&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://isocpp.org/" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=cplusplus&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank">
@@ -29,20 +43,12 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=nodedotjs&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://www.java.com/" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://isocpp.org/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=cplusplus&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.nasm.us/" target="_blank">
@@ -96,7 +102,7 @@
 
 ### 👉 Software & Tools
 
-<p>
+<p align="left">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
@@ -110,21 +116,7 @@
 </p>
 <br/>
 
-## 📊 Github Stats 
-
-<b>💻 GitHub Profile Stats</b>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nicolas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicolasmcort&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasmcort&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nicolasmcort" height="192px"/>
-  <br/>
-  
-  </p>
-
-
 <hr/>
 
 * Credit: [nicolasmcort](https://github.com/nicolasmcort)
-* Last Edited on: 18/12/2025
+* Last Edited on: 17/05/2026
